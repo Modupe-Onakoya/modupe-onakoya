@@ -32,3 +32,6 @@ I’m a Frontend Developer passionate about building clean, responsive, and user
 
 <h2>Currently working on</h2>
 real estate project
+
+<h2>How to reach me</h2>
+Email: onakoyamodupe0@gmail.com
