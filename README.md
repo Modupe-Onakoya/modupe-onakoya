@@ -26,7 +26,7 @@ I’m a Frontend Developer passionate about building clean, responsive, and user
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 
   
-  🌱 <h2>Currently Learning</h2>
+  <h2>Currently Learning</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 
 
