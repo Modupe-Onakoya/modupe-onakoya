@@ -34,6 +34,6 @@ Hotel Booking Site: https://hotel-booking-site-beta.vercel.app/
 
 <h2>How to reach me</h2>
 <p>Email: onakoyamodupe0@gmail.com</p>
-<p>Whatsapp: https//wa.me/2349066291370</p>
+<p>Whatsapp: https://wa.me/2349066291370</p>
 <p>Portfolio: https://onakoya-modupe-portfolio.vercel.app/</p>
 <p>Linkedin: https://www.linkedin.com/in/modupe-onakoya/</p>
