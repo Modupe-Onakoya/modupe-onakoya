@@ -26,7 +26,7 @@ Frontend Web Developer passionate about building responsive, accessible, and vis
 
   
   <h2>Currently Learning</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 
 
 <h2>Currently working on</h2>
