@@ -33,7 +33,7 @@ Frontend Web Developer passionate about building responsive, accessible, and vis
 Hotel Booking Site: https://hotel-booking-site-beta.vercel.app/
 
 <h2>How to reach me</h2>
-Email: onakoyamodupe0@gmail.com
-Whatsapp: +2349066291370
-Portfolio: https://onakoya-modupe-portfolio.vercel.app/
-Linkedin: https://www.linkedin.com/in/modupe-onakoya/
+<p>Email: onakoyamodupe0@gmail.com</p>
+<p>Whatsapp: https//wa.me/2349066291370</p>
+<p>Portfolio: https://onakoya-modupe-portfolio.vercel.app/</p>
+<p>Linkedin: https://www.linkedin.com/in/modupe-onakoya/</p>
