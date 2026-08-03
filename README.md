@@ -26,11 +26,14 @@ Frontend Web Developer passionate about building responsive, accessible, and vis
 
   
   <h2>Currently Learning</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  />
 
 
 <h2>Currently working on</h2>
-real estate project
+Hotel Booking Site: https://hotel-booking-site-beta.vercel.app/
 
 <h2>How to reach me</h2>
 Email: onakoyamodupe0@gmail.com
+Whatsapp: +2349066291370
+Portfolio: https://onakoya-modupe-portfolio.vercel.app/
+Linkedin: https://www.linkedin.com/in/modupe-onakoya/
