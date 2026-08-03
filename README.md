@@ -1,10 +1,9 @@
 <h1 align="left">Hi, I'm Modupe</h1>
 
 
-<h2>Frontend Developer</h2>
+<h2>Frontend Web Developer</h2>
 <p align="left">
-
-I’m a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas and designs into functional interfaces using modern web technologies.
+Frontend Web Developer passionate about building responsive, accessible, and visually engaging web applications. I enjoy turning ideas into polished user experiences through clean code, thoughtful design, and smooth animations.
 </p> 
 
 
