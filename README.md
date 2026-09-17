@@ -25,16 +25,12 @@ Frontend Web Developer passionate about building responsive, accessible, and vis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="zustand logo" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/zustand" height="40" alt="zustand logo" />
-<img width="12" />
-
 <img src="https://cdn.simpleicons.org/zod" height="40" alt="zod logo" />
 <img width="12" />
-
 <img src="https://cdn.simpleicons.org/reacthookform" height="40" alt="react hook form logo" />
 <img width="12" />
-
 <img src="https://cdn.simpleicons.org/tanstack" height="40" alt="tanstack logo" />
+  
   <h2>Currently Learning</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 
