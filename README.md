@@ -10,6 +10,7 @@ Frontend Web Developer passionate about building responsive, accessible, and vis
 <h2 align="left">🛠 Tech Stack</h2>
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/supabase" height="40" alt="supabase logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
