@@ -3,7 +3,7 @@
 
 <h2>Frontend Web Developer</h2>
 <p align="left">
-Frontend Web Developer passionate about building responsive, accessible, and visually engaging web applications. I enjoy turning ideas into polished user experiences through clean code, thoughtful design, and smooth animations.
+Frontend Web Developer building responsive, user-friendly web applications with clean code, thoughtful architecture, and smooth, engaging interfaces.
 </p> 
 
 
@@ -40,7 +40,7 @@ Frontend Web Developer passionate about building responsive, accessible, and vis
 Hotel Booking Site: https://hotel-booking-site-beta.vercel.app/
 
 <h2>How to reach me</h2>
-<p>Email: onakoyamodupe0@gmail.com</p>
+<p>Email: https://onakoyamodupe0@gmail.com</p>
 <p>Whatsapp: https://wa.me/2349066291370</p>
 <p>Portfolio: https://onakoya-modupe-portfolio.vercel.app/</p>
 <p>Linkedin: https://www.linkedin.com/in/modupe-onakoya/</p>
