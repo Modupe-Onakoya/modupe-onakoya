@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Modupe</h1>
 
 
-<h2>Frontend Web Developer</h2>
+<h2>Frontend Developer</h2>
 <p align="left">
-Frontend Web Developer building responsive, user-friendly web applications with clean code, thoughtful architecture, and smooth, engaging interfaces.
+Frontend Developer building responsive, user-friendly web applications with clean code, thoughtful architecture, and smooth, engaging interfaces.
 </p> 
 
 
